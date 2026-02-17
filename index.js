@@ -1,5 +1,5 @@
 function validateAge(oldEnough){
-  if (oldEnough) {
+  if (oldEnough === true) {
     return "old enough";
   }
 }
