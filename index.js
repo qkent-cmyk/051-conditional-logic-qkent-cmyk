@@ -1,3 +1,5 @@
 function validateAge(oldEnough){
-  // add your code here
+  if (oldEnough) {
+    return "old enough";
+  }
 }
